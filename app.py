@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🏆My first app!")
+st.title("🏆My first Data Science app!")
 
 # placeholder = st.empty()
 # status = 1
